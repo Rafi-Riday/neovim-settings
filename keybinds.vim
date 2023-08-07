@@ -27,4 +27,5 @@ map <C-a> ggVG<CR>
 " Custom Shortcuts
 nnoremap <C-p> <cmd>Telescope find_files<CR>
 nnoremap <C-b> <cmd>NERDTreeToggle<CR>
-nnoremap <C> <cmd>WhichKey '<C>'<CR>
+" nnoremap <C> <cmd>WhichKey '<C>'<CR>
+
